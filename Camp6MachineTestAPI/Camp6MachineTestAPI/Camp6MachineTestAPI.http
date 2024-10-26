@@ -1,0 +1,6 @@
+@Camp6MachineTestAPI_HostAddress = http://localhost:5286
+
+GET {{Camp6MachineTestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
